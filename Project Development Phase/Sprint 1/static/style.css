@@ -1,0 +1,153 @@
+.header {
+  padding: 5px 120px;
+  width: 150px;
+  height: 70px;
+  background-color: #236b8e;
+}
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+} 
+.border {
+  padding: 80px 50px;
+  width: 400px;
+  height: 450px;
+  border: 1px solid #236b8e;
+  border-radius: 0px;
+  background-color: #9ac0cd;
+}
+nav {
+float:left;
+width: 20%;
+height: 100%; 
+background: white;
+padding: 20px;
+}
+.btn {
+  padding: 10px 40px;
+  background-color: #236b8e;
+  color: #ffffff;
+  font-style: oblique;
+  font-weight: bold;
+  border-radius: 10px;
+}
+footer{
+  background: white;
+}
+.textbox {
+  padding: 10px 40px;
+  background-color: #236b8e;
+  text-shadow: #ffffff;
+  border-radius: 10px;
+}
+
+::placeholder {
+  color: #ffffff;
+  opacity: 1;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.word {
+  color: #ffffff;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.bottom {
+  color: #236b8e;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+body {
+  background: #fafafa;
+  color: #333333;
+  margin-top: 5rem;
+  background-image: url('https://tees.tamu.edu/news/2018/09/_news-images/isen-news-wind-turbine-25sept18tees.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+padding: 30px;
+text-align: center;
+font-size: 35px;
+color: white;
+}
+p{
+color: white;
+}
+.bg-steel {
+  background-color: #5f788a;
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #cbd5db;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #ffffff;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.article-title {
+  color: #444444;
+}
+
+a.article-title:hover {
+  color: #428bca;
+  text-decoration: none;
+}
+
+.article-content {
+  white-space: pre-line;
+}
+
+.article-img {
+  height: 65px;
+  width: 65px;
+  margin-right: 16px;
+}
+
+.article-metadata {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3
+}
+
+.article-metadata a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+.article-svg {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.account-img {
+  height: 125px;
+  width: 125px;
+  margin-right: 20px;
+  margin-bottom: 16px;
+}
+
+.account-heading {
+  font-size: 2.5rem;
+}
