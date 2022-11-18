@@ -1,7 +1,7 @@
 # IBM-Project-17312-1659633887
 Predicting the energy output of wind turbine based on weather condition
 
-##Team ID
+## Team ID
 PNT2022TMID53075
 
 ## Project Overview
